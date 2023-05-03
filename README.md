@@ -17,3 +17,5 @@
 ## Link:
 
 [Link to Github Repository](https://github.com/VASUK-09/Exam_01)
+
+[Link to Github pages](https://vasuk-09.github.io/Exam_01/)
